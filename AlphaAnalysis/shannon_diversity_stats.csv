@@ -1,0 +1,6 @@
+"Effect","Df","Sum_Sq","H_statistic","p_value"
+"vaccine_label",1,88.86,1.226,0.26825
+"Supplement",2,19.51,0.269,0.87411
+"vaccine_label:Supplement",2,8.74,0.121,0.94151
+"Residuals",23,1908.4,NA,NA
+"Total",28,2025.51,NA,NA
