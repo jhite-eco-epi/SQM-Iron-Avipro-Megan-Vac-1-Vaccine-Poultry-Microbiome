@@ -1,0 +1,6 @@
+"Effect","Df","Sum_Sq","R2","F_statistic","p_value"
+"Vaccine",1,0.2328,0.071,2.648,0.001
+"Iron Supplement",2,0.6032,0.184,3.43,0.001
+"Vaccine × Iron Supplement",2,0.4143,0.127,2.356,0.001
+"Residual",23,2.0221,0.618,NA,NA
+"Total",28,3.2723,1,NA,NA
