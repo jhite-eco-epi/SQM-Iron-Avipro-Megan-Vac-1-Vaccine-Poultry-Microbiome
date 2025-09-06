@@ -1,0 +1,126 @@
+original_name,current_name,mapping_status,mapping_notes,validation_status,validation_notes
+RF39,RF39,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Bacteroides,Bacteroides,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Clostridia_UCG-014,Clostridia_UCG-014,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Faecalibacterium,Faecalibacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Christensenellaceae_R-7_group,Christensenellaceae_R-7_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Incertae_Sedis,Incertae_Sedis,placeholder,Taxonomic placeholder - no mapping needed,invalid,Pre-filtered as invalid
+Gastranaerophilales,Gastranaerophilales,wrong_rank,Name found in NCBI but not at genus level,pending,
+Anaerofilum,Anaerofilum,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Tuzzerella,Tuzzerella,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Fournierella,Allofournierella,mapped_to_current,Updated to current scientific name: Fournierella -> Allofournierella ( genus level),valid,NCBI validated
+UCG-010,UCG-010,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Colidextribacter,Colidextribacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Caproiciproducens,Caproiciproducens,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+UC5-1-2E3,UC5-1-2E3,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+uncultured,uncultured,placeholder,Taxonomic placeholder - no mapping needed,invalid,Pre-filtered as invalid
+Alistipes,Alistipes,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Merdibacter,Merdibacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Oscillibacter,Oscillibacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Family_XIII_AD3011_group,Family_XIII_AD3011_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Monoglobus,Monoglobus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Clostridia_vadinBB60_group,Clostridia_vadinBB60_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+[Clostridium]_innocuum_group,[Clostridium]_innocuum_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Gordonibacter,Gordonibacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Odoribacter,Odoribacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Angelakisella,Angelakisella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Defluviitaleaceae_UCG-011,Defluviitaleaceae_UCG-011,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Butyricicoccus,Butyricicoccus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+[Eubacterium]_siraeum_group,[Eubacterium]_siraeum_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Erysipelatoclostridium,Thomasclavelia,mapped_to_current,Updated to current scientific name: Erysipelatoclostridium -> Thomasclavelia ( genus level),valid,NCBI validated
+Butyricimonas,Butyricimonas,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Desulfovibrio,Desulfovibrio,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Bilophila,Bilophila,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Subdoligranulum,Subdoligranulum,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+[Eubacterium]_coprostanoligenes_group,[Eubacterium]_coprostanoligenes_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Turicibacter,Turicibacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Barnesiella,Barnesiella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Muribaculaceae,Muribaculaceae,wrong_rank,Name found in NCBI but not at genus level,pending,
+Aerococcus,Aerococcus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+ASF356,ASF356,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Pygmaiobacter,Pygmaiobacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Mitochondria,Mitochondria,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Blautia,Blautia,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Mailhella,Mailhella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+UCG-005,UCG-005,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+HT002,HT002,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Shuttleworthia,Shuttleworthella,mapped_to_current,Updated to current scientific name: Shuttleworthia -> Shuttleworthella ( genus level),valid,NCBI validated
+[Eubacterium]_hallii_group,[Eubacterium]_hallii_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+vadinBE97,vadinBE97,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Anaerofustis,Anaerofustis,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Frisingicoccus,Frisingicoccus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Negativibacillus,Negativibacillus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Methanocorpusculum,Methanocorpusculum,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Ruminococcus,Ruminococcus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Lachnospiraceae_UCG-010,Lachnospiraceae_UCG-010,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Campylobacter,Campylobacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+S5-A14a,S5-A14a,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+UCG-009,UCG-009,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Romboutsia,Romboutsia,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Escherichia-Shigella,Shigella,mapped_to_current,Updated to current scientific name: Escherichia-Shigella -> Shigella ( genus level),valid,NCBI validated
+Staphylococcaceae,Staphylococcaceae,wrong_rank,Name found in NCBI but not at genus level,pending,
+Victivallis,Victivallis,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Myroides,Myroides,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Oscillospira,Oscillospira,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Mucispirillum,Mucispirillum,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Anaerostipes,Anaerostipes,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Sphingobacterium,Sphingobacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Izemoplasmatales,Izemoplasmatales,wrong_rank,Name found in NCBI but not at genus level,pending,
+Gallibacterium,Gallibacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Akkermansia,Akkermansia,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Intestinimonas,Intestinimonas,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Alcaligenes,Alcaligenes,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Lactobacillus,Lactobacillus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Erysipelotrichaceae,Erysipelotrichaceae,wrong_rank,Name found in NCBI but not at genus level,pending,
+UCG-008,UCG-008,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+[Eubacterium]_brachy_group,[Eubacterium]_brachy_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Oxalobacter,Oxalobacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Paludicola,Paludicola,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Holdemania,Holdemania,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Rikenella,Rikenella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Ligilactobacillus,Ligilactobacillus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Sellimonas,Sellimonas,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Desulfotomaculum,Desulfotomaculum,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+CHKCI001,CHKCI001,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+GCA-900066575,GCA-900066575,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Staphylococcus,Staphylococcus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Anaerotruncus,Anaerotruncus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Bacillus,Bacillus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Clostridium_sensu_stricto_1,Clostridium_sensu_stricto_1,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+CAG-56,CAG-56,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+UCG-002,UCG-002,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Roseburia,Roseburia,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Limosilactobacillus,Limosilactobacillus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Streptococcus,Streptococcus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Candidatus_Stoquefichus,Candidatus Stoquefichus,mapped_to_current,Updated to current scientific name: Candidatus_Stoquefichus -> Candidatus Stoquefichus ( genus level),valid,NCBI validated
+NK4A214_group,NK4A214_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Faecalicoccus,Faecalicoccus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Synergistes,Synergistes,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Phascolarctobacterium,Phascolarctobacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Rikenellaceae_RC9_gut_group,Rikenellaceae_RC9_gut_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+[Eubacterium]_nodatum_group,[Eubacterium]_nodatum_group,environmental,Environmental group - no mapping needed,invalid,Pre-filtered as invalid
+Weissella,Weissella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Sutterella,Sutterella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Prevotellaceae_UCG-001,Prevotellaceae_UCG-001,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Cerasicoccus,Cerasicoccus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Flavonifractor,Flavonifractor,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Victivallaceae,Victivallaceae,wrong_rank,Name found in NCBI but not at genus level,pending,
+Methanomassiliicoccus,Methanomassiliicoccus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Enterorhabdus,Enterorhabdus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Peptococcus,Peptococcus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+CHKCI002,CHKCI002,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid
+Bifidobacterium,Bifidobacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Helicobacter,Helicobacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Pseudomonas,Pseudomonas,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Brevibacterium,Brevibacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Erysipelotrichaceae_UCG-003,Erysipelotrichaceae_UCG-003,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Nitrosomonas,Nitrosomonas,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Brachybacterium,Brachybacterium,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Anaerostignum,Anaerostignum,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Catenibacillus,Catenibacillus,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+DNF00809,DNF00809,no_mapping,Not found in NCBI (no UID returned),invalid,Pre-filtered as invalid
+Parasutterella,Parasutterella,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Pseudoflavonifractor,Pseudoflavonifractor,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Parabacteroides,Parabacteroides,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+Methanobrevibacter,Methanobrevibacter,current_valid,Name is currently valid ( genus level),valid,NCBI validated
+DTU089,DTU089,technical_artifact,Technical code - no mapping needed,invalid,Pre-filtered as invalid

@@ -1,0 +1,14 @@
+original_name,current_name,mapping_status,mapping_notes,validation_status,validation_notes
+Firmicutes,Bacillota,mapped_to_current,Updated to current scientific name: Firmicutes -> Bacillota ( phylum level),valid,NCBI validated
+Bacteroidota,Bacteroidota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Cyanobacteria,Cyanobacteriota,mapped_to_current,Updated to current scientific name: Cyanobacteria -> Cyanobacteriota ( phylum level),valid,NCBI validated
+Actinobacteriota,Actinomycetota,mapped_to_current,Updated to current scientific name: Actinobacteriota -> Actinomycetota ( phylum level),valid,NCBI validated
+Desulfobacterota,Thermodesulfobacteriota,mapped_to_current,Updated to current scientific name: Desulfobacterota -> Thermodesulfobacteriota ( phylum level),valid,NCBI validated
+Proteobacteria,Pseudomonadota,mapped_to_current,Updated to current scientific name: Proteobacteria -> Pseudomonadota ( phylum level),valid,NCBI validated
+Verrucomicrobiota,Verrucomicrobiota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Halobacteriota,Halobacteriota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Campylobacterota,Campylobacterota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Deferribacterota,Deferribacterota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Synergistota,Synergistota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Thermoplasmatota,Thermoplasmatota,current_valid,Name is currently valid ( phylum level),valid,NCBI validated
+Euryarchaeota,Methanobacteriota,mapped_to_current,Updated to current scientific name: Euryarchaeota -> Methanobacteriota ( phylum level),valid,NCBI validated

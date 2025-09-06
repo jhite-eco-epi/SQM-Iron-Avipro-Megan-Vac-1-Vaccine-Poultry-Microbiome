@@ -1,0 +1,79 @@
+vaccine_label,Supplement,Taxon_clean,raw_pct,Pct
+Unvaccinated,Control,Actinomycetota,0.46111493461803166,0.46127366609294335
+Unvaccinated,Control,Bacillota,52.388162422573984,52.40619621342515
+Unvaccinated,Control,Bacteroidota,37.880247763248455,37.893287435456124
+Unvaccinated,Control,Campylobacterota,0.8878183069511355,0.8881239242685027
+Unvaccinated,Control,Cyanobacteriota,0.8327598072952512,0.8330464716006887
+Unvaccinated,Control,Deferribacterota,0.24088093599449414,0.2409638554216868
+Unvaccinated,Control,Halobacteriota,0,0
+Unvaccinated,Control,Methanobacteriota,4.1018582243633865,4.103270223752153
+Unvaccinated,Control,Pseudomonadota,1.6999311768754302,1.7005163511187613
+Unvaccinated,Control,Synergistota,0.006882312456985546,0.006884681583476766
+Unvaccinated,Control,Thermodesulfobacteriota,0.9841706813489333,0.9845094664371776
+Unvaccinated,Control,Thermoplasmatota,0.08258774948382656,0.08261617900172119
+Unvaccinated,Control,Verrucomicrobiota,0.39917412250516177,0.3993115318416525
+Unvaccinated,FeSO4,Actinomycetota,0.2684101858224363,0.2684471365638766
+Unvaccinated,FeSO4,Bacillota,52.89057123193393,52.89785242290749
+Unvaccinated,FeSO4,Bacteroidota,37.804542326221615,37.80974669603524
+Unvaccinated,FeSO4,Campylobacterota,0.35788024776324845,0.35792951541850215
+Unvaccinated,FeSO4,Cyanobacteriota,1.0667584308327598,1.0669052863436121
+Unvaccinated,FeSO4,Deferribacterota,0,0
+Unvaccinated,FeSO4,Halobacteriota,0,0
+Unvaccinated,FeSO4,Methanobacteriota,0,0
+Unvaccinated,FeSO4,Pseudomonadota,1.1286992429456297,1.1288546255506606
+Unvaccinated,FeSO4,Synergistota,2.161046111493462,2.1613436123348015
+Unvaccinated,FeSO4,Thermodesulfobacteriota,1.3558155540261527,1.3560022026431715
+Unvaccinated,FeSO4,Thermoplasmatota,0.05505849965588437,0.05506607929515417
+Unvaccinated,FeSO4,Verrucomicrobiota,2.897453544390915,2.8978524229074885
+Unvaccinated,SQM® Iron,Actinomycetota,0.26152787336545075,0.2616539282517386
+Unvaccinated,SQM® Iron,Bacillota,53.13145216792842,53.15706121324796
+Unvaccinated,SQM® Iron,Bacteroidota,38.03165863730213,38.049989671555466
+Unvaccinated,SQM® Iron,Campylobacterota,0.41982105987611834,0.4200234111409488
+Unvaccinated,SQM® Iron,Cyanobacteriota,1.5416379903647626,1.5423810507470908
+Unvaccinated,SQM® Iron,Deferribacterota,0,0
+Unvaccinated,SQM® Iron,Halobacteriota,0,0
+Unvaccinated,SQM® Iron,Methanobacteriota,0,0
+Unvaccinated,SQM® Iron,Pseudomonadota,0.9015829318651067,0.9020174894994148
+Unvaccinated,SQM® Iron,Synergistota,1.8031658637302133,1.8040349789988295
+Unvaccinated,SQM® Iron,Thermodesulfobacteriota,2.0715760495526494,2.0725745369414033
+Unvaccinated,SQM® Iron,Thermoplasmatota,0.08947006194081211,0.08951318598085796
+Unvaccinated,SQM® Iron,Verrucomicrobiota,1.6999311768754302,1.7007505336363014
+Vaccinated,Control,Actinomycetota,0.9979353062629043,0.9984506799793423
+Vaccinated,Control,Bacillota,54.507914659325536,54.536064727147526
+Vaccinated,Control,Bacteroidota,36.10633172746043,36.124978481666375
+Vaccinated,Control,Campylobacterota,0.5677907777013076,0.5680840075744533
+Vaccinated,Control,Cyanobacteriota,2.9507914659325536,2.952315372697538
+Vaccinated,Control,Deferribacterota,0,0
+Vaccinated,Control,Halobacteriota,1.2388162422573985,1.23945601652608
+Vaccinated,Control,Methanobacteriota,0,0
+Vaccinated,Control,Pseudomonadota,2.0216792842395046,2.022723360302978
+Vaccinated,Control,Synergistota,0,0
+Vaccinated,Control,Thermodesulfobacteriota,1.5055058499655884,1.5062833534171114
+Vaccinated,Control,Thermoplasmatota,0.017205781142463867,0.017214666896195555
+Vaccinated,Control,Verrucomicrobiota,0.03441156228492774,0.03442933379239112
+Vaccinated,FeSO4,Actinomycetota,0.33035099793530626,0.33053298443740536
+Vaccinated,FeSO4,Bacillota,58.54783207157605,58.58008538768766
+Vaccinated,FeSO4,Bacteroidota,34.6662078458362,34.685305054400224
+Vaccinated,FeSO4,Campylobacterota,0.7157604955264969,0.7161547996143782
+Vaccinated,FeSO4,Cyanobacteriota,1.748107364074329,1.7490703759812702
+Vaccinated,FeSO4,Deferribacterota,0,0
+Vaccinated,FeSO4,Halobacteriota,0,0
+Vaccinated,FeSO4,Methanobacteriota,0,0
+Vaccinated,FeSO4,Pseudomonadota,1.0874053682037166,1.0880044071064596
+Vaccinated,FeSO4,Synergistota,0,0
+Vaccinated,FeSO4,Thermodesulfobacteriota,1.5072264280798349,1.508056741495662
+Vaccinated,FeSO4,Thermoplasmatota,0.07570543702684102,0.07574714226690539
+Vaccinated,FeSO4,Verrucomicrobiota,1.2663454920853408,1.2670431070100538
+Vaccinated,SQM® Iron,Actinomycetota,0.28217481073640743,0.28229137978518315
+Vaccinated,SQM® Iron,Bacillota,55.292498279421885,55.31534012668686
+Vaccinated,SQM® Iron,Bacteroidota,38.47900894700619,38.49490498485266
+Vaccinated,SQM® Iron,Campylobacterota,0.48176187198898834,0.4819608923161664
+Vaccinated,SQM® Iron,Cyanobacteriota,0.9291121816930489,0.9294960066097493
+Vaccinated,SQM® Iron,Deferribacterota,0,0
+Vaccinated,SQM® Iron,Halobacteriota,0,0
+Vaccinated,SQM® Iron,Methanobacteriota,0,0
+Vaccinated,SQM® Iron,Pseudomonadota,1.3351686166551961,1.3357201872762323
+Vaccinated,SQM® Iron,Synergistota,0,0
+Vaccinated,SQM® Iron,Thermodesulfobacteriota,1.0736407432897452,1.074084274304599
+Vaccinated,SQM® Iron,Thermoplasmatota,0.05505849965588438,0.0550812448361333
+Vaccinated,SQM® Iron,Verrucomicrobiota,2.0302821748107363,2.031120903332415
