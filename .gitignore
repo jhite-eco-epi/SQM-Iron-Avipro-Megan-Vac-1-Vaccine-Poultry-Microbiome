@@ -1,0 +1,12 @@
+.env
+/data
+.Renviron
+.DS_Store
+.Rhistory
+/temp_export
+*.tiff
+
+# renv
+renv/library/
+renv/staging/
+renv/cellar/
