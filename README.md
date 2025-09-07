@@ -59,6 +59,16 @@ Utility functions and data processing scripts:
 External bioinformatics processing scripts:
 - `classify_taxonomy_2024_10.sh` - QIIME2 taxonomic classification script
 
+### 📁 **data/** - Analysis Datasets
+Core datasets required for all analyses:
+- `PoulVaccMetadata.tsv` - Sample metadata with treatment group information
+- `rarefied_bray_curtis_distance.tsv` - Bray-Curtis distance matrix from QIIME2
+- `rarefied_jaccard_matrix.tsv` - Jaccard distance matrix from QIIME2
+- `rarefied_observed_features.tsv` - Observed richness (alpha diversity)
+- `rarefied_shannon.tsv` - Shannon diversity index
+- `table.qza` - Rarefied ASV table (QIIME2 format)
+- `exported_taxa_barplot_data/` - Taxonomic abundance data at all levels (level-1 through level-7)
+
 ### 📁 **renv/** - R Environment Management
 R environment management for reproducibility:
 - `renv.lock` - Exact package versions used in analysis
@@ -154,13 +164,16 @@ This project uses `renv` for package management. Key packages include:
 
 Complete dependency list with exact versions: [`renv.lock`](renv.lock)
 
-## Data Requirements
+## Data Availability
 
-The analysis expects the following data files (typically in a `data/` directory):
-- **Rarefied ASV table** from QIIME2 (`.qza` format)
-- **Sample metadata** with treatment group information
-- **Taxonomic classifications** at phylum and genus levels
-- **Distance matrices** (Bray-Curtis and Jaccard) from QIIME2
+All required datasets are included in this repository in the `data/` directory:
+- **Rarefied ASV table** (`table.qza`) - QIIME2 format for feature abundance
+- **Sample metadata** (`PoulVaccMetadata.tsv`) - Treatment group assignments
+- **Alpha diversity metrics** (`rarefied_observed_features.tsv`, `rarefied_shannon.tsv`)
+- **Beta diversity distance matrices** (`rarefied_bray_curtis_distance.tsv`, `rarefied_jaccard_matrix.tsv`)
+- **Taxonomic abundance data** (`exported_taxa_barplot_data/` - levels 1-7)
+
+**No additional data download required** - clone the repository and run the analysis scripts directly.
 
 For data processing details, see: 📖 [**BIOINFORMATICS_README.md**](BIOINFORMATICS_README.md)
 
